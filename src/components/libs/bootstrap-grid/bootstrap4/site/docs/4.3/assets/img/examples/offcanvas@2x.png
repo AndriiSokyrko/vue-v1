@@ -1,0 +1,486 @@
+utListTool\CutListToolWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1007</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mark Markers</AvidSTX:Key>
+    <AvidSTX:Value>标记标记点</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\EasyCapture\EasyCaptureApp.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>8946</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mark MEMORY</AvidSTX:Key>
+    <AvidSTX:Value>标记“内存”</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\DeckPanel\DeckPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1738</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mark OUT</AvidSTX:Key>   <AvidSTXalue>标记出点</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\DeckPanel\DeckPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1726</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mark Out (O)</AvidSTX:Key>
+    <AvidSTX:Value>标记出点 (O)</AvidSTX:Value>
+    <AvidSTX:Context>Timeline Tool Tip</AvidSTX:Context>
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\tlstrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>139</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mark OUT and Log</AvidSTX:Key>
+    <AvidSTX:Value>标记出点并记录</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Digitize\DigitizeWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>523</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mark Out Indicator</AvidSTX:Key>
+    <AvidSTX:Value>标记出点指示器</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Audio\Tools\AudioSuitePlugInPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>258</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mark Short Cuts</AvidSTX:Key>
+    <AvidSTX:Value>标记快捷方式</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\Tango\Source\CutListTool\CutListToolWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1006</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslati>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>mark(s)</AvidSTX:Key>
+    <AvidSTX:Value>标记</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Script\ScriptPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>3064</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marker could not be created.</AvidSTX:Key>
+    <AvidSTX:Value>无法创建标记点。</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\MonWindow\MonPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>6599</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marker Tool</AvidSTX:Key>
+    <AvidSTX:Value>标记点工具</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\EasyCapture\EasyCaptureApp.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>9015</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Markers</AvidSTX:Key>
+    <AvidSTX:Value>标记点</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\MediaComposerApp.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>13017</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Markers - %s</AvidSTX:Key>
+    <AvidSTX:Value>标记点 - %s</AvidSTX:Value>
+    <AvidSTX:Context>Dlg Title</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\LocatorWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>2275</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Markers Only</AvidSTX:Key>
+    <AvidSTX:Value>仅标记点</AvidSTX:Value>
+    <AvidSTX:Context>Checkbox Caption</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Bin\ExportSettingWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1095</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Markers Window</AvidSTX:Key>
+    <AvidSTX:Value>“标记点”窗口</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\ComposerWindow\CWMainWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>2317</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Markers</AvidSTX:Key>
+    <AvidSTX:Value>标记点</AvidSTX:Value>
+    <AvidSTX:Context>Button Label</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\LocatorEntryDialog.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>143</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Markers</AvidSTX:Key>
+    <AvidSTX:Value>标记点</AvidSTX:Value>
+    <AvidSTX:Context>Dlg Title</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\LocatorWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>2396</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marketplace</AvidSTX:Key>
+    <AvidSTX:Value>市场</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\InAppCommerce\InAppCommerceUtils.h</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>18</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marketplace download: Destination bin not found.\n</AvidSTX:Key>
+    <AvidSTX:Value>市场下载: 未找到目标素材屉。\n</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\InAppCommerce\InAppCommerce_Window.cpp</AvidSTX:SoceFile>
+    <AvidSTX:SourceLine>1940</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marking clips for deletion...</AvidSTX:Key>
+    <AvidSTX:Value>正在标记要删除的片段...</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Bin\binClean.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>372</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marks the current time as the In point</AvidSTX:Key>
+    <AvidSTX:Value>将当前时间标记为“入点”</AvidSTX:Value>
+    <AvidSTX:ntext>Timeline Tool Tip</AvidSTX:Context>
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\tlstrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>182</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marks the current time as the Out point</AvidSTX:Key>
+    <AvidSTX:Value>将当前时间标记为“出点”</AvidSTX:Value>
+    <AvidSTX:Context>Timeline Tool Tip</AvidSTX:Context>
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\tlstrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>186</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marquee &amp;Help\tF1</AvidSTX:Key>
+    <AvidSTX:Value>Marquee 帮助(&amp;H)\tF1</AvidSTX:Value>
+    <AvidSTX:Context>Menu item for Windows Systems</AvidSTX:Context>
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\uistrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>705</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marquee Error</AvidSTX:Key>
+    <AvidSTX:Value>Marquee 错误</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\uistrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1639</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marquee Help</AvidSTX:Key>
+    <AvidSTX:Value>Marquee 帮助</AvidSTX:Value>
+    <AvidSTX:Context>Menu item for Mac Systems</AvidSTX:Context>
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\uistrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>703</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marquee is disabled since there is no OGL hardware.</AvidSTX:Key>
+    <AvidSTX:Value>因为没有 OGL 硬件，Marquee 已禁用。</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\CharGen2\TitleMarquee.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>377</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marquee is not enabled by a hardware dongle</AvidSTX:Key>
+    <AvidSTX:Value>Marquee 未通过硬件加密狗启用</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\uistrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1647</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marquee must be started from an Avid editor.</AvidSTX:Key>
+    <AvidSTX:Value>Marquee 必须从 Avid 编辑器启动。</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\uistrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1770</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marquee Title Setting</AvidSTX:Key>
+    <AvidSTX:Value>Marquee 字幕设置</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\CharGen2\MarqueeSetting.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>188</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marquee</AvidSTX:Key>
+    <AvidSTX:Value>Marquee</AvidSTX:Value>
+    <AvidSTX:Context>Button Label</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\CharGen2\MarqueeSetting.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>255</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Marquee</AvidSTX:Key>
+    <AvidSTX:Value>Marquee</AvidSTX:Value>
+    <AvidSTX:Context>Caption dialog</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\CharGen2\MarqueeSetting.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>174</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mas</AvidSTX:Key>
+    <AvidSTX:Value>M</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\ame\src\CompMan\SourceMan\TimeCodeUtils.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1305</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mas End</AvidSTX:Key>
+    <AvidSTX:Value>Mas 结束</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\ame\src\CompMan\SourceMan\TimeCodeUtils.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1306</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mas.</AvidSTX:Key>
+    <AvidSTX:Value>遮罩</AvidSTX:Value>
+    <AvidSTX:Context>Effect Editor</AvidSTX:Context>
+    <AvidSTX:SourceFile>\coresw\ame\src\Consumers\Pinnacle\WarpUtils.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1958</AvidSTX:SourceLine>
+  </AvidS:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mask</AvidSTX:Key>
+    <AvidSTX:Value>遮罩</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\ame\src\Consumers\EffectMan\AEffectInfo.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>498</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mask margins preset</AvidSTX:Key>
+    <AvidSTX:Value>遮罩边距预设</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\setTargetSettingsDlg.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>41</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mask Margins...</AvidSTX:Key>
+    <AvidSTX:Value>遮罩边距...</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Project\ProjectWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>2536</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Mask</AvidSTX:Key>
+    <AvidSTX:Value>遮罩</AvidSTX:Value>
+    <AvidSTX:Context>Effect Editor</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\ComposerWindow\CWEffectParamPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>762</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Masks, Flags, and NumEvents are now NOT persisted.\n</AvidSTX:Key>
+    <AvidSTX:Value>当前不持续遮罩、标志与 NumEvents。\n</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\core\src\debug\CoreEvent.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1017</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Masks, Flags, and NumEvents are now persisted.\n</AvidSTX:Key>
+    <AvidSTX:Value>当前持续遮罩、标志与 NumEvents。\n</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\core\src\debug\CoreEvent.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1015</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+ AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master</AvidSTX:Key>
+    <AvidSTX:Value>主</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Effects\CorrectionParamPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1820</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Black</AvidSTX:Key>
+    <AvidSTX:Value>主黑色</AvidSTX:Value>
+    <AvidSTX:Context>Effect Editor</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\ComposerWindow\CWEffectParamPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>595</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Clip</AvidSTX:Key>
+    <AvidSTX:Value>主素材片段</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Audio\Tools\AudioSuitePlugInPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>275</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Clips cannot be decomposed.</AvidSTX:Key>
+    <AvidSTX:Value>无法分解主素材片段。</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\ExceptionMessageMapObj.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>362</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Clips Only</AvidSTX:Key>
+    <AvidSTX:Value>仅主素材片段</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\DMS\Scavenge.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>488</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Clips</AvidSTX:Key>
+    <AvidSTX:Value>主素材片段</AvidSTX:Value>
+    <AvidSTX:Context>Checkbox Caption</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Bin\binmenus.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>6270</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Default Edge Type:</AvidSTX:Key>
+    <AvidSTX:Value>母带默认边缘类型:</AvidSTX:Value>
+    <AvidSTX:Context>Popup Menu Label</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\FilmSetting.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>594</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Default Film Type:</AvidSTX:Key>
+    <AvidSTX:Value>母带默认胶片类型:</AvidSTX:Value>
+    <AvidSTX:Context>Popup Menu Label</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\FilmSetting.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>593</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Durations </AvidSTX:Key>
+    <AvidSTX:Value>主持续时间 </AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\Tango\Source\CutListTool\CutListToolWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>945</AdSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master EDL</AvidSTX:Key>
+    <AvidSTX:Value>主 EDL</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\EDL_Mgr\EDL_UI\EDLMgrUI.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>219</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Email Control</AvidSTX:Key>
+    <AvidSTX:Value>主电子邮件控制</AvidSTX:Value>
+    <AvidSTX:Context>Dialog Caption</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\Email_SettingsDlg.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>104</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Faders</AvidSTX:Key>
+    <AvidSTX:Value>主推子</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\EDM_MC\source\Controllers\DigiControllerWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>118</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Faders</AvidSTX:Key>
+    <AvidSTX:Value>主推子</AvidSTX:Value>
+    <AvidSTX:Context>Label on caption</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\EDM_MC\source\Controllers\DigiController002.h</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>65</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Gain</AvidSTX:Key>
+    <AvidSTX:Value>主增益</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Effects\CorrectionParamTab_Curves.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>851</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Gain</AvidSTX:Key>
+    <AvidSTX:Value>主增益</AvidSTX:Value>
+    <AvidSTX:Context>Effect Editor</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\ComposerWindow\CWEffectParamPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>581</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Gamma</AvidSTX:Key>
+    <AvidSTX:Value>主 Gamma</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Effects\CorrectionParamTab_Curves.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>852</AvidSTX:SourceLine>
+  </AvidSTX:StringTrslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Gamma</AvidSTX:Key>
+    <AvidSTX:Value>主 Gamma</AvidSTX:Value>
+    <AvidSTX:Context>Effect Editor</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\ComposerWindow\CWEffectParamPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>588</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master HS</AvidSTX:Key>
+    <AvidSTX:Value>主 HS</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\ame\src\EDM\EuCon\CCParameterControlHandler.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>843</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Input</AvidSTX:Key>
+    <AvidSTX:Value>主输入</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Effects\CorrectionParamTab_Channels.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>443</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master List</AvidSTX:Key>
+    <AvidSTX:Value>主列表</AvidSTX:Value>
+    <AvidSTX:Context>Page Tab Label</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\EDL_Mgr\EDL_UI\EDLOptionsWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1068</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Mute</AvidSTX:Key>
+    <AvidSTX:Value>主静音</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Audio\Tools\MixPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>4792</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Opacity</AvidSTX:Key>
+    <AvidSTX:Value>主暗度</AvidSTX:Value>
+    <AvidSTX:Context>Property</AvidSTX:Context>
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\sdstrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>345</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master opacity:</AvidSTX:Key>
+    <AvidSTX:Value>主暗度:</AvidSTX:Value>
+    <AvidSTX:Context>QuickTitles Property Tab</AvidSTX:Context>
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\ppstrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>270</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master opacity:</AvidSTX:Key>
+    <AvidSTX:Value>主暗度:</AvidSTX:Value>
+    <AvidSTX:Context>Surface Property Tab</AvidSTX:Context>
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\ppstrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>166</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Output</AvidSTX:Key>
+    <AvidSTX:Value>主输出</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Effects\CorrectionParamTab_Channels.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>450</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Point</AvidSTX:Key>
+    <AvidSTX:Value>主点</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\ame\src\EDM\EuCon\CCParameterControlHandler.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>971</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Position</AvidSTX:Key>
+    <AvidSTX:Value>主位置</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\ame\src\EDM\EuCon\CCParameterControlHandler.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>977</AvidSTX:SourceLe>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Sat</AvidSTX:Key>
+    <AvidSTX:Value>主饱和度</AvidSTX:Value>
+    <AvidSTX:Context>Effect Editor</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\ComposerWindow\CWEffectParamPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>602</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Saturation</AvidSTX:Key>
+    <AvidSTX:Value>主饱和度</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Effects\CorrectionParamTab_Curves.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>849</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Master Setup</AvidSTX:Key>
+    <AvidSTX:Value>主设置</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Effects\CorrectionParamTab_Curves.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>853</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  

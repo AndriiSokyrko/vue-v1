@@ -1,0 +1,161 @@
+AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>User trained language.</AvidSTX:Key>
+    <AvidSTX:Value>ユーザーが習得している言語</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\external\Nexidia\stx\NexidiaAPIGetLanguageString_stx.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>165</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>User</AvidSTX:Key>
+    <AvidSTX:Value>ユーザー</AvidSTX:Value>
+    <AvidSTX:Context>library tab</AvidSTX:Context>
+    <AvidSTX:SourceFile>\stonedog\src\xp\stx\sdstrings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>438</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>User:</AvidSTX:Key>
+    <AvidSTX:Value>ユーザー:</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\transfer_tool\MCClient\TransferManagerUI.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1274</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>User:</AvidSTX:Key>
+    <AvidSTX:Value>ユーザー:</AvidSTX:Value>
+    <AvidSTX:Context>Text Entry Prompt</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Project\SingleUserProjDlgs.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>306</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Username</AvidSTX:Key>
+    <AvidSTX:Value>ユーザー名</AvidSTX:Value>
+    <AvidSTX:Context>Caption in dialog</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\Email_SettingsDlg.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>79</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Username:</AvidSTX:Key>
+    <AvidSTX:Value>ユーザー名:</AvidSTX:Value>
+    <AvidSTX:Context>Text Entry Prompt</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\DMS\DMSSettingWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>91</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Uses a 'virtual' deck for deck control</AvidSTX:Key>
+    <AvidSTX:Value>&quot;デッキ コントロールに &quot;&quot;仮想&quot;&quot; デッキを使用&quot;</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\EDM_MC\source\EDM\MCMachineManager.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>88</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Uses the Name or Label of the Volume</AvidSTX:Key>
+    <AvidSTX:Value>ボリュームの名前またはラベルを使用する</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\DMF\src\DMFAmaSettings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>75</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Uses the Project Name for the Bin</AvidSTX:Key>
+    <AvidSTX:Value>ビンのプロジェクト名を使用する</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\DMF\src\DMFAmaSettings.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>73</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Using </AvidSTX:Key>
+    <AvidSTX:Value>使用 </AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\Tango\Source\CutListTool\CutListToolWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>948</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Using a default parameter</AvidSTX:Key>
+    <AvidSTX:Value>デフォルトのパラメータを使用する</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\ame\src\CompMan\AParamClip.c</AvidSTX:SourFile>
+    <AvidSTX:SourceLine>4042</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Using Both Fields</AvidSTX:Key>
+    <AvidSTX:Value>2フィールドを使用</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\EasyCapture\EasyCaptureApp.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>9072</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Using DNA Client Monitor</AvidSTX:Key>
+    <AvidSTX:Value>DNA クライアント モニタを使用</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Media_Composer\MediaComposerApp.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>10378</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Using Duplicated Field</AvidSTX:Key>
+    <AvidSTX:Value>複製フィールドを使用</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\EasyCapture\EasyCaptureApp.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>9071</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Using Interpolated Field</AvidSTX:Key>
+    <AvidSTX:Value>補間フィールドを使用</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaCooser\EasyCapture\EasyCaptureApp.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>9073</AvidSTX:SourceLine>
+  <vidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Using track</AvidSTX:Key>
+    <AvidSTX:Value>トラック使用</AvidSTX:Value>
+    <AvidSTX:Context>Popup Menu Label</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Bin\BinCommands.c</AvidSTX:SourceFile>
+    <AvSTX:SourceLine>2285</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>UTF-8</AvidSTX:Key>
+    <AvidSTX:Value>UTF-8</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\core\src\utils\BigText.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>300</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>V   Delete </AvidSTX:Key>
+    <AvidSTX:Value>V 削除 </AvidSTX:Value>
+    <AvidSTX:Context>MTool delete media CBox caption</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Bin\MToolDialogs.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1107</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>V   Delete video file(s)</AvidSTX:Key>
+    <AvidSTX:Value>V ビデオ ファイルを削除</AvidSTX:Value>
+    <AvidSTX:Context>MTool delete media CBox caption</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Bin\MToolDialogs.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1109</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  vidSTX:StringTranslation>
+    <AvidSTX:Key>V  Delete </AvidSTX:Key>
+    <AvidSTX:Value>V 削除 </AvidSTX:Value>
+    <AvidSTX:Context>MTool delete media CBox caption</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Bin\MToolDialogs.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1200</AvidSTX:SourceLe>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>V  Delete video file(s)</AvidSTX:Key>
+    <AvidSTX:Value>V ビデオ ファイルを削除</AvidSTX:Value>
+    <AvidSTX:Context>MTool delete media CBox caption</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Bin\MToolDialogs.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1202</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>V Pos</AvidSTX:Key>
+    <AvidSTX:Value>V Pos</AvidSTX:Value>
+    <AvidSTX:Context>Effect Editor</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\ComposerWindow\CWEffectParamPane.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>4350</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>V Softness</AvidSTX:Key>
+    <AvidSTX:Value>V ソフト</AvidSTX:Value>
+    <AvidSTX:Context>Effect Editor</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\ComposerWindow\CWEffectParamP

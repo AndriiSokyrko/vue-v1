@@ -1,0 +1,75 @@
+//@import "bourbon";
+//adding fonts
+//
+//@include  font-face('#{$font-folder}Segoeu','segoeuibold/segoeuibold','600')
+//
+//@include  font-face('#{$font-folder}Segoeu','SegoeUILight/ofont.ru_Segoe UI Light','300')
+//
+//@include font-face('#{$font-folder}Segoeu','SegoeUIregular/Segoe UIregular','400')
+////300
+@font-face {
+  @include font-face('TTHovesLight', 'TTHoves/TTHoves-Light');
+  }
+//600
+@font-face {
+  @include font-face('TTHovesBold', 'TTHoves/TTHoves-Bold');
+  }
+//500
+@font-face {
+  @include font-face('TTHovesMedium', 'TTHoves/TTHoves-Medium');
+  }
+//800
+@font-face {
+  @include font-face('TTHovesExtraBold', 'TTHoves/TTHoves-ExtraBold');
+  }
+//SFPRODISPLAY
+@font-face {
+  @include font-face('SFProDispaly', 'SFProDisplay-Regular/FontsFree-Net-SFProDisplay-Regular');
+  }
+//@include add-font('TTHoves/TTHoves-DemiBold','TTHovesDemiBold')
+//
+//@include font-face('icomoon','#{$font-folder}icomoon/icomoon')
+
+//
+//@font-face {
+//  font-family: 'TTHovesLight';
+//  src: url('../fonts/TTHoves/TTHoves-Light.eot');
+//  src: local('☺'), url('../fonts/TTHoves/TTHoves-Light.woff') format('woff'),
+//  url('../fonts/TTHoves/TTHoves-Light.ttf') format('truetype'),
+//  url('../fonts/TTHoves/TTHoves-Light.svg') format('svg');
+//  font-weight: normal;
+//  font-style: normal;
+//}
+//
+//@font-face {
+//  font-family: 'TTHovesMedium';
+//  src: url('../fonts/TTHoves/TTHoves-Light.eot');
+//  src: local('☺'), url('../fonts/TTHoves/TTHoves-Light.woff') format('woff'),
+//  url('../fonts/TTHoves/TTHoves-Light.ttf') format('truetype'),
+//  url('../fonts/TTHoves/TTHoves-Light.svg') format('svg');
+//  font-weight: 700;
+//  font-style: normal;
+//}
+
+
+
+////@font-face {
+//  font-family: 'icomoon';
+//  src:  url('../fonts/icons/icomoon.eot');
+//  src:  url('../fonts/icons/icomoon.eot') format('embedded-opentype'),
+//  url('../fonts/icons/icomoon.ttf') format('truetype'),
+//  url('../fonts/icons/icomoon.woff') format('woff'),
+//   url('../fonts/icons/icomoon.svg?#icomoon') format('svg');
+//  font-weight: normal;
+//  font-style: normal;
+//}
+
+//@include add-font("../fonts/icons/iconmoon","icons");
+
+//@include font-face("icons", "../fonts/icons/icons",null,null,$file-formats: eot ttf woff);
+//@include font-face("Roboto bold", "../fonts/roboto-bold/roboto-bold_[allfont.ru]",null,null,$file-formats: eot ttf woff);
+//@include font-face("Roboto light", "../fonts/roboto-light/roboto-light_[allfont.ru]",null,null,$file-formats: eot ttf woff);
+//@include font-face("Roboto medium", "../fonts/roboto-medium/roboto-medium_[allfont.ru]",null,null,$file-formats: eot ttf woff);
+//@include font-face("icomoon", "../fonts/icons/icomoon",null,null,$file-formats: eot ttf woff woff2);
+
+

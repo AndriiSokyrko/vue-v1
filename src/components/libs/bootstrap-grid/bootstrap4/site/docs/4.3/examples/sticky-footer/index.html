@@ -1,0 +1,32 @@
+<?php
+namespace GuzzleHttp\Handler;
+
+use GuzzleHttp\Psr7\Response;
+use Psr\Http\Message\RequestInterface;
+use Psr\Http\Message\ResponseInterface;
+use Psr\Http\Message\StreamInterface;
+
+/**
+ * Represents a cURL easy handle and the data it populates.
+ *
+ * @internal
+ */
+final class EasyHandle
+{
+    /** @var resource cURL resource */
+    public $handle;
+
+    /** @var StreamInterface Where data is being written */
+    public $sink;
+
+    /** @var array Received HTTP headers so far */
+    public $headers = [];
+
+    /** @var ResponseInterface Received response (if any) */
+    public $response;
+
+    /** @var RequestInterface Request being sent */
+    public $request;
+
+    /** @var array Request options */
+    public $

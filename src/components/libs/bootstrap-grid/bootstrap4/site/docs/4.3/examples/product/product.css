@@ -1,0 +1,20 @@
+c\msmdb\msm.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>8776</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>msm is CURRENTLY set up to LEAVE RECURSIVE calls to ValidateCache alone.\n</AvidSTX:Key>
+    <AvidSTX:Value>msm 当前已被设成不要循环调用 ValidateCache。\n</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\ame\src\msmdb\msm.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>8761</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>msm is CURRENTLY set up to LEAVE REPETITIVE cls to ValidateCache alone.\n</AvidSTX:Key>
+    <AvidSTX:Value>msm 当前已被设成不要重复调用 ValidateCache。\n</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\coresw\ame\src\msmdb\msm.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>8778</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>msm is CURRENTLY set up to NOT trace the results of fixing ValidateCache to CONSOLE.\n</AvidSTX:Key>
+    <AvidSTX:Value>msm 当前已被设成不将确定 ValidateCache �

@@ -1,0 +1,175 @@
+/*==========  Desktop First Method  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+  /*input kode here*/
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+  /*input kode here*/
+  
+  #nav_toggle {
+    //position: absolute;
+    //top: 0;
+    //right: 0;
+    display: block;
+    }
+ 
+  .header {
+    .header-container {
+      .header-row {
+        .header-col {
+          position: relative;
+        
+          .logo {
+            margin: 0 auto;
+            }
+        
+          .nav_toggle {
+            //position: absolute;
+            //top: 0;
+            //right: 0;
+            //display: block;
+            }
+        
+          nav.mainMenu {
+            display: none;
+            position: absolute;
+            background: grey;
+            top: 100%;
+            left: 0;
+            right: 0;
+            z-index: 9999;
+            padding-top: 30px;
+            margin: 0 !important;
+            text-align: center;
+            width: 100%;
+          
+            ul {
+              li {
+                display: block;
+                width: 100%;
+                margin-bottom: 30px;
+                margin-right: 0;
+              
+                a {
+                  }
+                }
+            
+              //li
+              }
+          
+            //ul
+            }
+        
+          //mainMenu
+          
+          }
+      
+        //header-col
+        
+        }
+    
+      //header-row
+      
+      }
+  
+    //header-container
+    }
+    //header
+  .section1{
+    .section1-container{
+      .section1-row{
+        .section1-col{
+          .section1-col-card {
+            #section1-col-card-right {
+              grid-column: 6 /span 7;
+              }
+            }//section1-col-card
+          }//section1-col
+        }//section1-row
+      }//section1-container
+    }//section1
+  }
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  /*input kode here*/
+  .section1{
+    .section1-container{
+      .section1-row{
+        .section1-col{
+          .section1-col-card {
+            #section1-col-card-left {
+              grid-column: 1 /span 5;
+    
+              }
+            #section1-col-card-right {
+              grid-column: 8 /span 5;
+              }
+            }//section1-col-card
+          }//section1-col
+        }//section1-row
+      }//section1-container
+    }//section1
+  
+  .section2 {
+    .section2-container {
+      .section2-row {
+        .section2-col-left {
+          grid-column:  span 12;
+          .img-wrapper {
+            width: 100%;
+            }
+          }//section2--col-left
+        section2-col-right{
+          grid-column:  span 12;
+          
+          }
+        }//section2-row
+      }//section2-container
+    }//section2
+  }
+/*Disable Animation on Mobile Devices*/
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 560px) {
+  /*input kode here*/
+}
+@media only screen and (max-width: 480px)  {
+  /*input kode here*/
+  }
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 360px) {
+  /*input kode here*/
+}
+/*==========  Mo`ile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 320px) {
+  /*input kode here*/
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+  /*input kode here*/
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width: 768px) {
+  /*input kode here*/
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+  /*input kode here*/
+  
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width: 1200px) {
+  /*input kode here*/
+
+}

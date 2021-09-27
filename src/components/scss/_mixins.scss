@@ -1,0 +1,245 @@
+//@import 'bourbon/bourbon';
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  border-radius: $radius;
+  }
+
+@mixin transform($property) {
+  transform: $property;
+  -webkit-transform: $property;
+  -moz-transform: $property;
+  -o-transform: $property;
+  }
+
+@mixin transition($property...) {
+  transition: $property;
+  -webkit-transition: $property;
+  -moz-transition: $property;
+  -o-transition: $property;
+  }
+
+@mixin animation($property) {
+  -webkit-animation: $property;
+  -moz-animation: $property;
+  -o-animation: $property;
+  -ms-animation: $property;
+  animation: $property;
+  }
+
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie);
+  }
+
+@mixin transition-delay($delay...) {
+  -moz-transition-delay: $delay;
+  -o-transition-delay: $delay;
+  -webkit-transition-delay: $delay;
+  transition-delay: $delay;
+  }
+
+//use http://www.font2web.com to generate all font formats
+//@mixin add-font($font-url, $font-name, $font-weight: normal, $font-style: normal) {
+//  font-family: $font-name;
+//  src: url('#{$font-folder}#{$font-url}.eot'), // IE9 Compat Modes
+//  url('#{$font-folder}#{$font-url}.eot?@iefix') format('embedded-opentype'), // IE6-IE8
+//  url('#{$font-folder}#{$font-url}.woff') format('woff'), // Pretty Modern Browsers
+//  url('#{$font-folder}#{$font-url}.ttf') format('truetype'), // Safari, Android, iOS
+//  url('#{$font-folder}#{$font-url}.svg#$font-name') format('svg'); // Legacy iOS
+//  font-weight: $font-weight;
+//  font-style: $font-style;
+//  }
+@mixin font-face($font-family, $file-path, $font-weight: normal, $font-style: normal) {
+    font-family: $font-family;
+    src: url('#{$font-folder}#{$file-path}.eot');
+    src: url('#{$font-folder}#{$file-path}.eot?#iefix') format('embedded-opentype'),
+    url('#{$font-folder}#{$file-path}.woff') format('woff'),
+    url('#{$font-folder}#{$file-path}.ttf') format('truetype'),
+    url('#{$font-folder}#{$file-path}.svg##{$font-family}') format('svg');
+    font-weight: $font-weight;
+    font-style: $font-style;
+  }
+
+ 
+
+
+@mixin transition($prop: all, $time: 0.3s, $ease: ease-in-out) {
+  transition: $prop $time $ease;
+  }
+
+@mixin bg-img($img, $pos:center center, $att:scroll) {
+  background-image: url('#{$img-folder}#{$img}');
+  background-position: $pos;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: $att;
+  }
+
+@mixin clearfix() {
+  &:before {
+    content: '';
+    display: block;
+    }
+  &:after {
+    clear: both;
+    }
+  }
+
+@mixin before_plus($color) {
+  &:before {
+    content: '+';
+    display: inline-block;
+    color: $color;
+    width: em(21);
+    height: em(21);
+    border-radius: 50%;
+    border-color: $color;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    }
+  }
+
+/* AKcia */
+@mixin timer($subsct, $color, $color_title,$position) {
+  .#{$subsct}-action-time {
+    display: block;
+    text-align: #{$position};
+    * {
+      color: $color;
+      }
+    .#{$subsct}-action-title {
+      display: inline-block;
+      font-size: 13px;
+      font-weight: bold;
+      letter-spacing: -1px;
+      margin: 0 auto 9px;
+      color: $color_title;
+      }
+    .#{$subsct}-timer {
+      //text-align: center;
+      line-height: .8 ;
+      .#{$subsct}-digital {
+        //display: inline-block;
+        font-size: 18px;
+        line-height: 1;
+        letter-spacing: 1.5px;
+
+        span {
+          padding-right: 34px;
+          &:last-child {
+            padding-right: 0;
+            }
+          }
+        }
+      .#{$subsct}-text {
+        display: inline-block;
+        line-height: 1;
+        span {
+          font-size: 8px;
+          text-transform: lowercase;
+          padding-right: 33px;
+          &:last-child {
+            padding-right: 0;
+            }
+          }
+        }
+
+      }
+    }
+  }
+/* otizive */
+
+@mixin otzive($subsct) {
+  .#{$subsct}-otzive {
+    margin-bottom: 32px;
+    img {
+      display: block;
+      float: left;
+      width: 33%;
+      margin-right: 2px;
+      }
+    .#{$subsct}-itzive-total {
+      width: 66%;
+      display: inline-block;
+      padding: 6px 0 6px 9px;
+      .sct-6-excerpt {
+        display: inline-block;
+        float: left;
+        padding: 6px 0 6px 9px;
+        font-size: 9px;
+        }
+      .#{$subsct}-description {
+        display: inline-block;
+        font-size: 9px;
+        background: $accent;
+        padding: 7px 8px 7px 8px;
+        }
+      }
+    }
+  }
+
+@mixin ListStyle($colorBg) {
+  &:before {
+    content: '';
+    display: inline-block;
+    line-height: 10;
+    margin-right: 4px;
+    width: 4px;
+    height: 4px;
+
+    border-radius: 50%;
+    background: $colorBg;
+    }
+  }
+
+@mixin Button($colorBg,$colorF,$pad) {
+  input {
+    display: inline-block;
+    margin: 0 auto;
+    &[type='submit'] {
+      background: $colorBg;
+      color: $colorF;
+      font-size: 9px;
+      padding: #{$pad};
+      }
+    @include clearfix;
+    }
+
+  }
+
+@mixin insertNumber($num, $left, $fz, $color) {
+  &:before {
+    content: '#{$num}';
+    position: absolute;
+    left: $left;
+    font-size: $fz;
+    color: $color;
+
+    }
+  }
+
+ 
+/* наклонные строны блока */
+
+/* --------------------------------------------- */
+ /* //form-order */
+
+/* =============slidet two  polzunok */
+
+
+/* vertical align middle */
+@mixin vam($align : middle){
+  height: 100%;
+  &:before{
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: $align;
+    float: none;
+
+    }
+  }

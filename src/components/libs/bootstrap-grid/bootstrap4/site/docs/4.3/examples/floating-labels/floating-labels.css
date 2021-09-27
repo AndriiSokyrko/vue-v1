@@ -1,0 +1,42 @@
+idSTX:StringTranslation>
+    <AvidSTX:Key>Password</AvidSTX:Key>
+    <AvidSTX:Value>密码</AvidSTX:Value>
+    <AvidSTX:Context>Text Entry Prompt</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\MMClientInterface\MMLoginDialog.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>320</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Password:</AvidSTX:Key>
+    <AvidSTX:Value>密码:</AvidSTX:Value>
+    <AvidSTX:Context>Text Entry Prompt</AvidSTX:Context>
+    <AvidSTX:SourceFile>\ppg\MediaComposer\DMS\DMSSettingWindow.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>92</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Past Head A</AvidSTX:Key>
+    <AvidSTX:Value>经过头 A</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Timeline\TLpane_edit.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1713</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Past Tail B</AvidSTX:Key>
+    <AvidSTX:Value>经过尾 B</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Timeline\TLpane_edit.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1720</AvidSTX:SourceLine>
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Paste</AvidSTX:Key>
+    <AvidSTX:Value>粘贴</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\NRCS\NSMLTextPane.cpp</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>1032</AvidSTX:SourceLin
+  </AvidSTX:StringTranslation>
+  <AvidSTX:StringTranslation>
+    <AvidSTX:Key>Paste Attributes</AvidSTX:Key>
+    <AvidSTX:Value>粘贴属性</AvidSTX:Value>
+    <AvidSTX:Context />
+    <AvidSTX:SourceFile>\ppg\MediaComposer\Timeline\TLpane_edit.c</AvidSTX:SourceFile>
+    <AvidSTX:SourceLine>4055</AvidSTX:SourceLine>
+  </AvidSTX:Strin
